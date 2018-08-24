@@ -31,5 +31,16 @@ public class Loops{
             System.out.println(i + "squared = " + (i * i ));
         }
     }
-    
+    public static void writeSquares("6...");
+    for (int count = 0; count <=100; count +=2)
+    {
+        System.out.print("WriteSquares6...");
+    }
+    public static void meme()
+{
+    for (int i = 1; i < 10; i++);
+    {
+        for (int c = 1;)
+    }
+}
 }
