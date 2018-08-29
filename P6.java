@@ -1,5 +1,5 @@
 /* Dylan Prah
-* Problem 4
+* Problem 6
 */
 public class P6{
     public static void main(String[]args)
